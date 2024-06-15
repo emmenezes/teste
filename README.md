@@ -53,6 +53,7 @@ git config --global user.email "exemplo@seuemail.com.br"
 ```
 mkdir pasta && cd pasta
 git init
+git status
 ```
 
 4. Adicionar e confirmar arquivos

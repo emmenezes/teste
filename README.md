@@ -60,6 +60,7 @@ git status
 ```
 git add nome_do_arquivo
 git commit -m "Comentário sobre a alteração"
+git status
 ```
 
 5. Criar um repositório remoto
